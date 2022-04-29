@@ -1,0 +1,7 @@
+what is Device Controller?
+It is a hardware unit attached to the i/o of a computer that works as a connector between the computer and the device driver.
+It also controls the impulses a computer sends to the driver/ CPU. and relegates them to where they are needed.
+
+<b> Device Driver</b>
+It is a code inside the OS that allows the CPU to be empowered with the specific commands needed to operate a specific function.
+basically it means that without device drivers, the computer won't be able to communicate properly with the hardware devices.
